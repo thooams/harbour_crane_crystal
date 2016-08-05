@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe HarbourCraneCristal do
+describe HarbourCraneCrystal do
   # TODO: Write tests
 
   it "works" do
