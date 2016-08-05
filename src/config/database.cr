@@ -1,0 +1,5 @@
+ENV["SQLITE_DB"]   = "src/db/development.sqlite3"
+ENV["PG_USER"]     = "harbour_crane"
+ENV["PG_PASS"]     = "harbour_crane"
+ENV["PG_HOST"]     = "localhost"
+ENV["PG_DATABASE"] = "harbour_crane"

@@ -1,0 +1,24 @@
+name: harbour_crane_crystal
+version: 0.1.0
+
+authors:
+  - Thomas HUMMEL <thomas@hummel.link>
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
+  active_record:
+    github: waterlink/active_record.cr
+    version: ~> 1.0.1
+  sqlite_adapter:
+    github: trapped/sqlite_adapter.cr
+    version: 0.1.0
+  pg:
+    github: will/crystal-pg
+  postgres_adapter:
+    github: waterlink/postgres_adapter.cr
+    version: ~> 0.4
+
