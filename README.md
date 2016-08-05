@@ -29,4 +29,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Thomas HUMMEL](https://github.com/thoaams) Thomas HUMMEL - creator, maintainer
+- [Thomas HUMMEL](https://github.com/thooams) Thomas HUMMEL - creator, maintainer
